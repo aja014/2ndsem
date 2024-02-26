@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int getchVal(char x[],int l) { // 101 is up, 111 is down
+int getchVal(char x[], int l) { // 101 is up, 111 is down
 	//x[32];
 
 	int num =1;
